@@ -1,0 +1,7 @@
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\EgysegTesztDoga0213\Egysegteszt\Egysegteszt\bin\Debug\Egysegteszt.exe.config
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\EgysegTesztDoga0213\Egysegteszt\Egysegteszt\bin\Debug\Egysegteszt.exe
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\EgysegTesztDoga0213\Egysegteszt\Egysegteszt\bin\Debug\Egysegteszt.pdb
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\EgysegTesztDoga0213\Egysegteszt\Egysegteszt\obj\Debug\EgysegtesztGalJozsef.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\EgysegTesztDoga0213\Egysegteszt\Egysegteszt\obj\Debug\EgysegtesztGalJozsef.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\EgysegTesztDoga0213\Egysegteszt\Egysegteszt\obj\Debug\Egysegteszt.exe
+C:\Users\diak\Desktop\Gal_Jozsef\kopaszbela\EgysegTesztDoga0213\Egysegteszt\Egysegteszt\obj\Debug\Egysegteszt.pdb

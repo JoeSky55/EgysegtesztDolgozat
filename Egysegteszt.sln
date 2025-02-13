@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgysegtesztGalJozsef", "Egysegteszt\EgysegtesztGalJozsef.csproj", "{3092E67C-0FC5-4240-9072-A32B32F1CCDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleAreaTests", "RectangleAreaTests\RectangleAreaTests.csproj", "{75B1ADAD-8DAB-4940-AE56-6EEB00AEF02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3092E67C-0FC5-4240-9072-A32B32F1CCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3092E67C-0FC5-4240-9072-A32B32F1CCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3092E67C-0FC5-4240-9072-A32B32F1CCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3092E67C-0FC5-4240-9072-A32B32F1CCDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B1ADAD-8DAB-4940-AE56-6EEB00AEF02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B1ADAD-8DAB-4940-AE56-6EEB00AEF02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B1ADAD-8DAB-4940-AE56-6EEB00AEF02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B1ADAD-8DAB-4940-AE56-6EEB00AEF02D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49D9A73C-A37C-45C7-B719-23971BC108B9}
+	EndGlobalSection
+EndGlobal
